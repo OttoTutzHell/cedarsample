@@ -1,0 +1,12 @@
+## [2026-10-26a] ingest | AI as Normal Technology (Narayanan & Kapoor) + The Hackening (Zvi Mowshowitz)
+
+Otto: *"Ingest the new files in raw."* Two sources read as a pair: the strongest statement of the anti-superintelligence worldview, and the week of evidence that pressed hardest on its cyber prediction. *Sources: 2 new. **4 pages created, 7 updated; counters 951 → 955 pages, 491 → 493 sources, EA 197 → 201.***
+
+- **Normal technology:** impact over decades because invention, innovation, adoption and diffusion run on separate clocks; RSI is gradual ("AI development already relies heavily on AI"); control over alignment; resilience over nonproliferation. Unlike Ege/Tamay it denies explosive growth as well as the intelligence explosion. The source page ends with a scorable predictions table.
+- **The Hackening (18–23 October 2026):** two CVSS 9.2 PHP flaws found by defenders with GPT-5.6 Sol and exploited before most could patch (found 1 August, exploited 17 October); 46.1% of version-revealing PHP sites on end-of-life branches; GitLab CVSS 10.0; Storm-0940 automating attacks with ARTEX; ~$50 per AI-run breach; unauthorised agents in bank accounts. Soares, roon and Buterin on offense vs defense.
+- **Web additions (not from raw):** the concept page records Narayanan and Kapoor's September 2026 newsletter revisions (they no longer assume defender advantage in cyber; development-time risk underweighted) and their August 2026 shadow evaluations of agents doing open-ended AI research. URLs are cited inline.
+- **Schema:** `.claude/vault-formats.md` is still missing (only the empty `.txt` exists); re-dated the existing line.
+
+**Created (4):** [[Effective Altruism/Sources/AI as Normal Technology (Narayanan and Kapoor)]] · [[Effective Altruism/Sources/The Hackening (Zvi Mowshowitz)]] · [[Effective Altruism/AI as Normal Technology]] · [[Effective Altruism/AI Cyber Offense-Defense Balance]]
+**Updated (7):** [[Effective Altruism/Intelligence Explosion]] (§Critique: The Normal-Technology Counterposition) · [[Effective Altruism/AGI Timelines]] (estimate row, §Timelines ≠ Disruption Speed) · [[Effective Altruism/Explosive Economic Growth]] (diffusion objection) · [[Effective Altruism/AI Risk in a Diffuse Transition]] · [[Effective Altruism/Cause Prioritization/AI Risk is from agency]] · [[Effective Altruism/Civilizational Resilience]] (AI governance; personal preparedness) · [[Effective Altruism/AI Alignment]] (control instead of alignment) · plus EA `_index`, `index`, Open for Otto §Schema
+

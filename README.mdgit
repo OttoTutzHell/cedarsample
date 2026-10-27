@@ -1,0 +1,1 @@
+"# cedarsample"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/OttoTutzHell/cedarsample.gitgit push -u origin main
